@@ -74,3 +74,8 @@ crashlytics-build.properties
 # Piano Loops Music assets
 /Assets/Piano Instrumental Music Loops/
 /Assets/Piano Instrumental Music Loops.meta
+
+# WebGL Publisher
+/WebGL Builds/
+/connectwebgl.zip
+/webgl_sharing
